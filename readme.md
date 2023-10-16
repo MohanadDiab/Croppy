@@ -1,6 +1,6 @@
 # Croppy 🌟
 
-![Banner](assets/banner.jpg)
+![Banner](assets/banner.png)
 
 ## Introduction 📜
 **Croppy** is a Python package designed to effortlessly transform images into various shapes. Whether you're looking to craft circles, triangles, rectangles, or stars from your images, this package has got you covered!
